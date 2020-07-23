@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/terrilthomas/Library/Android/sdk/ndk/21.0.6113669/build/cmake/platforms.cmake",
+    "/Users/terrilthomas/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
+    "/Users/terrilthomas/Documents/Android Projects/MagicCamera/magicfilter/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/terrilthomas/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/terrilthomas/Documents/Android Projects/MagicCamera/magicfilter/.cxx/cmake/release/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/Users/terrilthomas/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/terrilthomas/Documents/Android Projects/MagicCamera/magicfilter/.cxx/cmake/release/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "MagicJni-Release-x86_64": {
+      "artifactName": "MagicJni",
+      "buildCommand": "/Users/terrilthomas/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/terrilthomas/Documents/Android Projects/MagicCamera/magicfilter/.cxx/cmake/release/x86_64\" MagicJni",
+      "abi": "x86_64",
+      "output": "/Users/terrilthomas/Documents/Android Projects/MagicCamera/magicfilter/build/intermediates/cmake/release/obj/x86_64/libMagicJni.so",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,25 @@
+[
+{
+  "directory": "/Users/terrilthomas/Documents/Android Projects/MagicCamera/magicfilter/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/terrilthomas/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/terrilthomas/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/terrilthomas/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DMagicJni_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/MagicJni.dir/src/main/cpp/bitmap/Conversion.cpp.o -c \"/Users/terrilthomas/Documents/Android Projects/MagicCamera/magicfilter/src/main/cpp/bitmap/Conversion.cpp\"",
+  "file": "/Users/terrilthomas/Documents/Android Projects/MagicCamera/magicfilter/src/main/cpp/bitmap/Conversion.cpp"
+},
+
+{
+  "directory": "/Users/terrilthomas/Documents/Android Projects/MagicCamera/magicfilter/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/terrilthomas/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/terrilthomas/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/terrilthomas/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DMagicJni_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/MagicJni.dir/src/main/cpp/bitmap/BitmapOperation.cpp.o -c \"/Users/terrilthomas/Documents/Android Projects/MagicCamera/magicfilter/src/main/cpp/bitmap/BitmapOperation.cpp\"",
+  "file": "/Users/terrilthomas/Documents/Android Projects/MagicCamera/magicfilter/src/main/cpp/bitmap/BitmapOperation.cpp"
+},
+
+{
+  "directory": "/Users/terrilthomas/Documents/Android Projects/MagicCamera/magicfilter/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/terrilthomas/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/terrilthomas/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/terrilthomas/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DMagicJni_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/MagicJni.dir/src/main/cpp/beautify/MagicBeautify.cpp.o -c \"/Users/terrilthomas/Documents/Android Projects/MagicCamera/magicfilter/src/main/cpp/beautify/MagicBeautify.cpp\"",
+  "file": "/Users/terrilthomas/Documents/Android Projects/MagicCamera/magicfilter/src/main/cpp/beautify/MagicBeautify.cpp"
+},
+
+{
+  "directory": "/Users/terrilthomas/Documents/Android Projects/MagicCamera/magicfilter/.cxx/cmake/debug/arm64-v8a",
+  "command": "/Users/terrilthomas/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/terrilthomas/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/terrilthomas/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DMagicJni_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/MagicJni.dir/src/main/cpp/MagicJni.cpp.o -c \"/Users/terrilthomas/Documents/Android Projects/MagicCamera/magicfilter/src/main/cpp/MagicJni.cpp\"",
+  "file": "/Users/terrilthomas/Documents/Android Projects/MagicCamera/magicfilter/src/main/cpp/MagicJni.cpp"
+}
+]

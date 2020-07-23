@@ -1,0 +1,75 @@
+{
+  "stringTable": {
+    "0": "/Users/terrilthomas/Documents/Android Projects/MagicCamera/magicfilter/.cxx/cmake/debug/x86_64",
+    "1": "--target=x86_64-none-linux-android21 --gcc-toolchain=/Users/terrilthomas/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/terrilthomas/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DMagicJni_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/Users/terrilthomas/Library/Android/sdk/ndk/21.0.6113669/build/cmake/platforms.cmake",
+    "/Users/terrilthomas/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
+    "/Users/terrilthomas/Documents/Android Projects/MagicCamera/magicfilter/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/terrilthomas/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/terrilthomas/Documents/Android Projects/MagicCamera/magicfilter/.cxx/cmake/debug/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/Users/terrilthomas/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/terrilthomas/Documents/Android Projects/MagicCamera/magicfilter/.cxx/cmake/debug/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "MagicJni-Debug-x86_64": {
+      "buildCommand": "/Users/terrilthomas/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/terrilthomas/Documents/Android Projects/MagicCamera/magicfilter/.cxx/cmake/debug/x86_64\" MagicJni",
+      "buildType": "debug",
+      "toolchain": "1422518590",
+      "abi": "x86_64",
+      "artifactName": "MagicJni",
+      "files": [
+        {
+          "src": "/Users/terrilthomas/Documents/Android Projects/MagicCamera/magicfilter/src/main/cpp/bitmap/Conversion.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/terrilthomas/Documents/Android Projects/MagicCamera/magicfilter/src/main/cpp/bitmap/BitmapOperation.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/terrilthomas/Documents/Android Projects/MagicCamera/magicfilter/src/main/cpp/beautify/MagicBeautify.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/terrilthomas/Documents/Android Projects/MagicCamera/magicfilter/src/main/cpp/MagicJni.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "/Users/terrilthomas/Documents/Android Projects/MagicCamera/magicfilter/src/main/cpp/bitmap/JniBitmap.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/terrilthomas/Documents/Android Projects/MagicCamera/magicfilter/src/main/cpp/bitmap/Conversion.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/terrilthomas/Documents/Android Projects/MagicCamera/magicfilter/src/main/cpp/bitmap/BitmapOperation.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/terrilthomas/Documents/Android Projects/MagicCamera/magicfilter/src/main/cpp/beautify/MagicBeautify.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/Users/terrilthomas/Documents/Android Projects/MagicCamera/magicfilter/build/intermediates/cmake/debug/obj/x86_64/libMagicJni.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "1422518590": {
+      "cppCompilerExecutable": "/Users/terrilthomas/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
